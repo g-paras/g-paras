@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## My name is Paras Gupta
-### Here are the links for some of my projects
-##### Work in progress
+### I am currently pursuing Bachelor's degree at KIET Group of Institutions 19-23
+🌱 I’m currently learning Machine Learning
 <!--
 **g-paras/g-paras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
