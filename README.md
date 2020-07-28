@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## My name is Paras Gupta
 ### I am a first year under-grad pursuing my bachelors in Electronics and communications.
-🌱 I’m currently learning Machine Learning and Internet of Things
+🌱 I’m currently learning Machine Learning and Internet of Things <br>
 I make static websites and learing django framework.
 <!--
 **g-paras/g-paras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
