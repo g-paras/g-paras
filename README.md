@@ -4,6 +4,7 @@
 🌱 I’m currently learning Machine Learning and Internet of Things. <br>
 🔭 I make static websites and flask apps. <br>
 ⚡ Fun fact: I am a good person😂. Try me!
+😄 Fun fact: Ignore my profile picture, I am bad at pictures.
 <!--
 **g-paras/g-paras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
