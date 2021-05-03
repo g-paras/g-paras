@@ -1,4 +1,4 @@
-### Hi there 🙋
+### Hello there :wave:
 ## My name is Paras Gupta
 #### I am a second year under-grad pursuing my bachelors in Electronics and communications at KIET Group of Institutions.
 🌱 I’m currently learning Machine Learning. <br>
