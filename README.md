@@ -1,7 +1,11 @@
 ### Hey 👋, I'm [Paras Gupta]()
-#### I am a second year under-grad pursuing my bachelors in Electronics and communications at KIET Group of Institutions.
+#### I am a second year under-grad pursuing my bachelors in Electronics and communications at [KIET Group of Institutions](kiet.edu).
 🌱 I’m currently learning Machine Learning. <br>
 🔭 I make static websites and flask apps. <br>
+
+### 🎯 &nbsp;2021 Aim
+
+- Make my profile as green as possible
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -16,6 +20,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
+![Streamlit](https://img.shields.io/badge/streamlit%20-%23013243.svg?&style=flat&logo=streamlit&logoColor=white)&nbsp;
 
 ### 📫 &nbsp; How to reach me:
 
