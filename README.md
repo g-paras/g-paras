@@ -30,6 +30,8 @@
 <a href="https://instagram.com/_gparas_"><img src="https://img.shields.io/badge/-@_gparas__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=g-paras&theme=dark)](https://git.io/streak-stats)
+
 
 <!--
 **g-paras/g-paras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
