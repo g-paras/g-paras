@@ -30,7 +30,10 @@
 <a href="https://instagram.com/_gparas_"><img src="https://img.shields.io/badge/-@_gparas__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=g-paras&theme=dark)](https://git.io/streak-stats)
+<p>
+    <img alt="g-paras's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=g-paras&theme=monokai-metallian&hide_border=true"/>
+</p>
+
 
 
 <!--
