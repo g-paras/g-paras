@@ -34,7 +34,6 @@
     <img alt="g-paras's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=g-paras&theme=monokai-metallian&hide_border=true"/>
 </p>
 
-<img style="display:hidden;" src="https://visitor-badge.glitch.me/badge?page_id=g-paras">
 
 <!--
 **g-paras/g-paras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
