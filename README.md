@@ -31,7 +31,7 @@
 
 
 <p>
-    <img alt="g-paras's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=g-paras&theme=monokai-metallian&hide_border=true"/>
+    Github Streak 🔥
 </p>
 
 
