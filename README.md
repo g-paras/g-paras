@@ -31,7 +31,7 @@
 
 
 <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=g-paras&theme=monokai-metallian&hide_border=false">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=g-paras&theme=nightowl&hide_border=true">
 </p>
 
 
