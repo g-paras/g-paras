@@ -14,6 +14,7 @@
 ![Django](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask&logoColor=092E20)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
+![scikit-learn](https://img.shields.io/badge/sklearn%20-%23013243.svg?&style=flat&logo=scikit-learn&logoColor=white)&nbsp;
 ![Streamlit](https://img.shields.io/badge/streamlit%20-%23013243.svg?&style=flat&logo=streamlit&logoColor=white)&nbsp;\
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
