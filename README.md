@@ -6,7 +6,7 @@
 ### 🎯 &nbsp;2021 Aim
 
 - Make my profile as green as possible
-
+- Leave a footprint
 
 ### 🛠 &nbsp;Tech Stack
 
