@@ -15,7 +15,6 @@
 ![Pandas](https://img.shields.io/badge/pandas%20-%23013243.svg?&style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![scikit-learn](https://img.shields.io/badge/sklearn%20-%23013243.svg?&style=for-the-badge&logo=scikit-learn)&nbsp;
 ![Streamlit](https://img.shields.io/badge/streamlit%20-%23013243.svg?&style=for-the-badge&logo=streamlit)&nbsp;\
-![Bootstrap](https://img.shields.io/badge/-Bootstrap%20-%23013243.svg?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
 ![HTML](https://img.shields.io/badge/-HTML%20-%23013243.svg?style=for-the-badge&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS%20-%23013243.svg?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git%20-%23013243.svg?style=for-the-badge&logo=git)&nbsp;
