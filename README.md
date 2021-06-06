@@ -1,11 +1,6 @@
-### Hey 👋, I'm [Paras Gupta](https://github.com/g-paras)
-#### I am a second year under-grad pursuing my bachelors in Electronics and communications at [KIET Group of Institutions](https://www.kiet.edu).
-🌱 I’m currently learning Machine Learning. <br>
-🔭 I make static websites and flask apps. <br>
-
-### 🎯 &nbsp;2021 Aim
-
-- Make my profile as green as possible
+## Hello there 👋, I am Paras Gupta
+### I am an Engineering Student and a newbie Programmer 💻
+Leaning and Experimenting new skills
 
 ### 🛠 &nbsp;Tech Stack
 
