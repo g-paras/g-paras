@@ -1,6 +1,6 @@
 ## Hello there 👋, I am Paras Gupta
 ### I am an Engineering Student and a newbie Programmer 💻
-Leaning and Experimenting new skills
+Just Leaning and Experimenting
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -24,6 +24,7 @@ Leaning and Experimenting new skills
 <a href="mailto:guptaparas039@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://instagram.com/_gparas_"><img src="https://img.shields.io/badge/-@_gparas__-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a> &nbsp;
 
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=g-paras&repo=g-paras&countColor=%237B1E7A)
 
 <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=g-paras&theme=dark&hide_border=true">
