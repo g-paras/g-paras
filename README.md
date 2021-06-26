@@ -1,6 +1,7 @@
 ## Hello there 👋, I am Paras Gupta
 ### I am an Engineering Student and a newbie Programmer 💻
-Just Leaning and Experimenting
+
+> Just Learning and Experimenting
 
 ### 🛠 &nbsp;Tech Stack
 
