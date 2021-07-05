@@ -28,7 +28,7 @@
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=g-paras&repo=g-paras&countColor=%237B1E7A)
 
 <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=g-paras&theme=dark&hide_border=false">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=g-paras&theme=dark&hide_border=true">
 </p>
 
 
