@@ -1,7 +1,8 @@
 ## Hello there 👋, I am Paras Gupta
 ### I am an Engineering Student and a newbie Programmer 💻
 
-> Just Learning and Experimenting
+> Just Learning and Experimenting \
+> Check out my page on Instagram [pySimplify](https://instagram.com/pysimplify)
 
 ### 🛠 &nbsp;Tech Stack
 
