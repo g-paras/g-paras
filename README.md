@@ -1,5 +1,7 @@
 ## Hello there 👋, I am Paras Gupta
-### I am an Engineering Student and a newbie Programmer 💻
+### I am an Engineering Student and Python Programmer 💻
+
+I am passionate about Web Development and Machine Learning.
 
 > Just Learning and Experimenting \
 > Check out my page on Instagram [pySimplify](https://instagram.com/pysimplify)
@@ -27,10 +29,6 @@
 <a href="https://instagram.com/_gparas_"><img src="https://img.shields.io/badge/-@_gparas__-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=g-paras&repo=g-paras&countColor=%237B1E7A)
-
-<p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=g-paras&theme=dark&hide_border=true">
-</p>
 
 
 <!--
