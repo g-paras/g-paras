@@ -1,5 +1,8 @@
-## Hello there 👋, I am Paras Gupta
-### I am an Engineering Student and Python Programmer 💻
+![asdf](./banner.jpg)
+
+<!-- ## Hello there 👋, I am Paras Gupta
+### I am an Engineering Student and Python Programmer 💻 -->
+
 
 I am passionate about Web Development and Machine Learning.
 
