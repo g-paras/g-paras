@@ -21,6 +21,19 @@ I am passionate about Web Development and Machine Learning.
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code%20-%23013243.svg?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
+---
+
+
+<p  align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=g-paras&show_icons=true&theme=onedark" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=g-paras&theme=onedark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=g-paras&show_icons=true&locale=en&layout=compact&theme=onedark" alt="g-paras" />
+
+</p>
+
+---
+
+
 ### 📫 &nbsp; How to reach me
 
 
