@@ -33,6 +33,9 @@ I am passionate about Web Development and Machine Learning.
 
 ---
 
+[![Paras Gupta's github activity graph](https://activity-graph.herokuapp.com/graph?username=g-paras&theme=xcode)](https://github.com/g-paras/g-paras)
+
+----
 
 ### 📫 &nbsp; How to reach me
 
