@@ -4,7 +4,7 @@
 ### I am an Engineering Student and Python Programmer 💻 -->
 
 
-I am passionate about Web Development and Machine Learning.
+I am passionate about Web Development, Machine Learning and Open Source.
 
 > Just Learning and Experimenting \
 > Check out my page on Instagram [pySimplify](https://instagram.com/pysimplify)
